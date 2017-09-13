@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-generator",
+  "version": "0.0.1",
+  "description": "Create a flash card generator.",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickallenjr/Flashcard-Generator.git"
+  },
+  "author": "Nicholas Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickallenjr/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/nickallenjr/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2",
+    "require": "^2.4.20"
+  }
+}
